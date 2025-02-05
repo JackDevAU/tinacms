@@ -1,0 +1,3 @@
+[submodule "examples/github-pages-example"]
+	path = examples/github-pages-example
+	url = https://github.com/JackDevAU/testing-github-tinacms.git
